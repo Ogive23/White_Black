@@ -28,7 +28,7 @@ class SettingsScreen extends StatelessWidget {
                 builder: (context) {
                   return AboutDialog(
                     applicationName: 'White Or Black',
-                    applicationVersion: '1.0.0',
+                    applicationVersion: '1.0.1',
                     children: <Widget>[
                       Text('Animations rights reserved to Lottie'),
                       Text('Fonts rights reserved to Google Fonts'),
