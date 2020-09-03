@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "904837185778",
+    "firebase_url": "https://white-or-black-c3e9e.firebaseio.com",
+    "project_id": "white-or-black-c3e9e",
+    "storage_bucket": "white-or-black-c3e9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904837185778:android:859a4f40862c5ca9f2906b",
+        "android_client_info": {
+          "package_name": "com.ogive.white_black"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904837185778-oedpns5vr9lhtbss0550ng8m418f9pl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEU-NGI9bPrD-03giJ5KmScv_bNTG-jSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904837185778-oedpns5vr9lhtbss0550ng8m418f9pl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
