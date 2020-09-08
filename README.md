@@ -1,5 +1,6 @@
 # White_Black
-W|B is an entertainment app that helps user to know what he would wear today based on today's weather.
+W|B is an entertainment app that helps user to know what he would wear today based on today's weather.<br>
+Google Play link: https://play.google.com/store/apps/details?id=com.ogive.white_black&hl=en
 ### White|Black
   The result of the program is done by naive bayes Machine Learning model, it also said by voice overlay for kind of interacting.
 ### Feedback results
